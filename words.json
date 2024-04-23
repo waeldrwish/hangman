@@ -1,0 +1,130 @@
+{
+    "categories": [
+      {
+        "name": "programming",
+        "words": [
+          "php",
+          "javascript",
+          "go",
+          "scala",
+          "fortran",
+          "r",
+          "mysql",
+          "python",
+          "java",
+          "csharp",
+          "ruby",
+          "swift",
+          "typescript",
+          "html",
+          "css"
+        ]
+      },
+      {
+        "name": "movies",
+        "words": [
+          "Prestige",
+          "inception",
+          "parasite",
+          "interstellar",
+          "whiplash",
+          "memento",
+          "coco",
+          "up",
+          "titanic",
+          "avatar",
+          "thegodfather",
+          "forrestgump",
+          "shawshankredemption",
+          "fightclub",
+          "goodfellas",
+          "jaws",
+          "rocky"
+        ]
+      },
+      {
+        "name": "people",
+        "words": [
+          "Albert Einstein",
+          "Hitchcock",
+          "Alexander the Great",
+          "Cleopatra",
+          "Khalid ibn al-Walid",
+          "Napoleon Bonaparte",
+          "Leonardo da Vinci",
+          "Marilyn Monroe",
+          "Muhammad Ali",
+          "Mother Teresa",
+          "Martin Luther King Jr.",
+          "Elvis Presley",
+          "Oprah Winfrey",
+          "Pablo Picasso",
+          "Vincent van Gogh",
+          "Walt Disney"
+        ]
+      },
+      {
+        "name": "countries",
+        "words": [
+          "syria",
+          "palestine",
+          "yemen",
+          "egypt",
+          "bahrain",
+          "qatar",
+          "japan",
+          "germany",
+          "france",
+          "brazil",
+          "australia",
+          "canada",
+          "india",
+          "italy",
+          "spain",
+          "mexico"
+        ]
+      },
+      {
+        "name": "foods",
+        "words": [
+          "pizza",
+          "hamburger",
+          "sushi",
+          "pasta",
+          "taco",
+          "sandwich",
+          "steak",
+          "salad",
+          "icecream",
+          "cake",
+          "sushi",
+          "popcorn",
+          "pancake",
+          "burrito",
+          "noodles"
+        ]
+      },
+      {
+        "name": "animals",
+        "words": [
+          "lion",
+          "tiger",
+          "elephant",
+          "giraffe",
+          "zebra",
+          "monkey",
+          "panda",
+          "koala",
+          "hippo",
+          "rhinoceros",
+          "crocodile",
+          "snake",
+          "turtle",
+          "octopus",
+          "dolphin",
+          "whale"
+        ]
+      }
+    ]
+  }
+  
